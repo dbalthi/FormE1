@@ -1,0 +1,13 @@
+# Minimal mapping – extend as needed
+map:
+  Housing: "Section 3 – Housing"
+  Utilities: "Section 3 – Utilities"
+  Groceries: "Section 3 – Food & housekeeping"
+  Transport: "Section 3 – Transport"
+  Insurance: "Section 3 – Insurance"
+  Medical: "Section 3 – Medical"
+  ChildrenMedical: "Section 3 – Children’s medical"
+  School: "Section 3 – School & child-related"
+  Education: "Section 3 – Education"
+  Leisure: "Section 3 – Leisure"
+  Misc: "Section 3 – Other"

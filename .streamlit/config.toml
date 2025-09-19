@@ -1,0 +1,14 @@
+[theme]
+base="light"
+primaryColor="#2b6cb0"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f6f8fb"
+textColor="#1a202c"
+font="sans serif"
+
+[client]
+showErrorDetails = "full"
+
+[server]
+headless = false
+runOnSave = true

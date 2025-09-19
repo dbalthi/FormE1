@@ -1,0 +1,16 @@
+[data]
+raw_dir = "data/raw"
+parsed_dir = "data/parsed"
+
+[artifacts]
+base_dir = "artifacts"
+charts_dir = "artifacts/charts"
+exports_dir = "artifacts/exports"
+reports_dir = "artifacts/reports"
+
+[features]
+anomaly_detection = true
+rule_tuner = false
+audit_json = false
+cli_tools = false
+sample_dataset = true

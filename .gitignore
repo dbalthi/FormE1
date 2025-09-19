@@ -1,0 +1,23 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Local environment & secrets
+.env
+.streamlit/secrets.toml
+
+# App-generated artifacts & local data
+data/
+artifacts/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+
+# Reports/exports you don't want in Git by default
+*.pdf
+*.png
+
+# Optional: keep sample redacted files
+!examples/

@@ -1,0 +1,24 @@
+# Seeded categories aligned to Form E1 needs
+categories:
+  Housing:
+    include: ["RENT", "MORTGAGE", "LANDLORD", "COUNCIL TAX"]
+  Utilities:
+    include: ["EDF", "OCTOPUS", "BRITISH GAS", "WATER", "THAMES", "O2", "EE", "VODAFONE", "BROADBAND", "SKY"]
+  Groceries:
+    include: ["TESCO", "SAINSBURY", "WAITROSE", "ALDI", "LIDL", "MORRISONS", "CO-OP"]
+  Transport:
+    include: ["TFL", "NATIONAL RAIL", "FUEL", "UBER", "BOLT", "AUTO"]
+  Insurance:
+    include: ["AXA", "AVIVA", "ADMIRAL", "DIRECT LINE", "INSURANCE"]
+  Medical:
+    include: ["NHS", "BOOTS", "PHARMACY", "DENTAL", "OPTIC", "GP"]
+  ChildrenMedical:
+    include: ["ORTHO", "PAEDIATRIC", "SPEECH", "THERAPY", "CAMHS", "CLINIC"]
+  School:
+    include: ["SCHOOL", "TUITION", "UNIFORM", "TRIP", "LUNCH", "AFTER SCHOOL", " CLUB "]
+  Education:
+    include: ["COURSE", "BOOKS", "EXAM", "TUTOR"]
+  Leisure:
+    include: ["NETFLIX", "SPOTIFY", "AMAZON PRIME", "CINEMA", "GYM"]
+  Misc:
+    include: []
